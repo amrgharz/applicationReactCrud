@@ -1,2 +1,0 @@
-# applicationReactCrud
-Created with CodeSandbox
